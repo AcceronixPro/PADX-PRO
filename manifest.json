@@ -1,0 +1,10 @@
+{
+  "name": "PADX-PRO ",
+  "short_name": "PAX",
+  "display": "standalone",
+  "description": "It is the new upgrade of PADX ",
+  "scope": "/",
+  "start_url": "https://acceronixpro.github.io/PADX-PRO/",
+  "theme_color": "#000000",
+  "background_color": "#FFFFFF"
+}
